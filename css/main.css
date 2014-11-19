@@ -1,14 +1,12 @@
 html {
     width: 100%;
-    margin: 0 auto;
-
+    margin: 0;
+    background: url("../images/paper-bg.jpg");
 }
 body {
     width: 100%;
     margin: 0;
     padding: 0;
-    background: url("../images/paper-bg.jpg");
-    max-width: 100%;
 }
 body {
     opacity: .7;
