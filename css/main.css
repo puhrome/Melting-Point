@@ -46,12 +46,3 @@ body {
         max-width: 20%;
     }
 }
-/* extra small to small screens, ie mobile devices*/
-@media screen and (min-width: 0) and (max-width: 319px) {
-    nav li {
-        font-size: .75em;
-    }
-    .arrow img {
-        max-width: 20%;
-    }
-}
