@@ -66,8 +66,9 @@ img {
 }
 #icons {
     width: 100%;
-    max-width: 70%;
-    padding-right: 5%;
+}
+#twitter, #facebook, #instagram {
+    float: left;
 }
 /* =====  M A P S ==== */
 /* =====  M A P S ==== */
