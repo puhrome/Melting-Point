@@ -58,11 +58,16 @@ img {
 
 }
 #main-menu img {
-    max-width: 100%;
     margin: 0 auto;
 }
 #social img {
     width: 100%;
+    border: 1px solid red;
+}
+#icons {
+    width: 100%;
+    max-width: 70%;
+    padding-right: 5%;
 }
 /* =====  M A P S ==== */
 /* =====  M A P S ==== */
